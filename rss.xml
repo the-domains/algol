@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Algol Personal Webpage]]></title>
         <description><![CDATA[Algol Personal Webpage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/algol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 20:35:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 20:36:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/algol/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Berfore Gaia, I used to simulate Ultra High Energy Cosmic Rays interactions with the Milky Way’s central region.</p>]]></description>
+            <link>https://thegrid.ai/algol/ffa721b4-2b30-4183-bfb1-1e24c8766c7e/index.html</link>
+            <guid isPermaLink="false">ffa721b4-2b30-4183-bfb1-1e24c8766c7e</guid>
+            <pubDate>Mon, 01 Feb 2016 20:31:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>An astronomer, working at the SIM group of the Faculdade de Ciências da Universidade de Lisboa. Most of my research efforts are dedicated to the ESA-Gaia satellite data processing and analysis consortium (DPAC).</p>]]></description>
-            <link>undefined29a7e03f-cdd3-4cb2-8bad-c3a6ce43b6b3/index.html</link>
+            <link>https://thegrid.ai/algol/29a7e03f-cdd3-4cb2-8bad-c3a6ce43b6b3/index.html</link>
             <guid isPermaLink="false">29a7e03f-cdd3-4cb2-8bad-c3a6ce43b6b3</guid>
             <pubDate>Mon, 01 Feb 2016 20:31:25 GMT</pubDate>
         </item>
