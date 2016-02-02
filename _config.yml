@@ -1,7 +1,7 @@
 name: Algol
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.88474
+typography_spectrum: 0.48377
 title: Alberto Krone-Martins - Personal Webpage
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ce7f48'
     - '#a34200'
     - '#ffcc49'
-  brandStrength: 0.375
-  lightness: 0.4375
+  brandStrength: 0.4375
+  lightness: 0.3125
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
